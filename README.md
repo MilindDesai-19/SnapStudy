@@ -1,5 +1,3 @@
-# SnapStudy
-An AI powered study assistant.
 # ⚡ SnapStudy
 
 > **Learn Smart, Study Fast** — Upload your study material and get AI-generated summaries and practice quizzes instantly.
